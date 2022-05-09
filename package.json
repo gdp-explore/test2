@@ -14,7 +14,8 @@
   "homepage": "https://github.com/okta/samples-php#readme",
   "devDependencies": {
     "axios": "^0.21.4",
-    "eslint":"^4.15.0"
+    "eslint":"^4.15.0",
+    "lodash:"4.17.11"
   },
   "scripts": {
     "test": "composer test",
